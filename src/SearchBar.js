@@ -17,7 +17,7 @@ const SearchBar = ({ searchVideos }) => {
 			<form className='ui form' onSubmit={handleSubmit}>
 				<div className='field'>
 					<label>Please search responsibly</label>
-					<input type='text' value={searchTerm} placeholder='Enter a search term' onChange={handleChange} />
+					<input type='text' value={searchTerm} placeholder='Type something and hit enter' onChange={handleChange} />
 				</div>
 			</form>
 		</div>
