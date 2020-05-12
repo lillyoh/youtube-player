@@ -3,7 +3,7 @@ import SearchBar from './SearchBar';
 import VideoList from './VideoList';
 import VideoDetail from './VideoDetail';
 import youtube from './apis/youtube';
-import { KEY } from './config';
+import { KEY } from './keyconfig';
 
 function App() {
 	const [videos, setVideos] = useState([]);
