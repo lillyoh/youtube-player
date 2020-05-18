@@ -1,15 +1,17 @@
 
-## Summary
+# Youtube Player
 This was a project to practice using the Youtube API.
 Built with React with React Hooks and deployed on Heroku. 
 
-## Features
+![image](/public/project-videoplayer.png)
+
+# Features
 - Default search set to The Beach Boys
 - Enter a search term and get back five videos
 - Click a video on the sidebar to play 
 - Selected video shows title and description
 
-## Resources
+# Resources
 - Bootstrapped with create-react-app
 - Youtube API
 - Materialize CSS 
